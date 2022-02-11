@@ -1,5 +1,5 @@
 # HOLA-MUNDO
-Repositorio hola mundo
+Repositorio prueba
 
 Autor: Erick R.
 Fecha: 11 de febrero
